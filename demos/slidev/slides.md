@@ -310,6 +310,17 @@ color: '#123B33'
   </div>
 </div>
 
+<!--
+GUION 2 MIN — EJEMPLOS POPULARES
+0:00 Hook: ¿qué pasa cuando abren una página? No es magia: son varios RFC.
+0:15 DNS (RFC 1034): nombre → IP. Demo: nslookup unsa.edu.pe.
+0:45 TCP (RFC 9293): conexión, segmentos, confirmaciones, retransmisión.
+1:10 HTTP (RFC 9110): métodos, códigos, encabezados. Un 404 no es fallo de red.
+1:35 Evolución: 793 → 9293; 2616 → 9110. Revisar Obsoletes/Updates/errata.
+1:50 Cierre: entender los RFC es diseñar sistemas que funcionan en Internet.
+Demo fuerte: F12 > Network > recargar y mostrar DNS/connection/TLS/request.
+Plan B: pestañas de RFC abiertas + salida de `curl -v` ya visible.
+-->
 ---
 layout: section
 number: '05'

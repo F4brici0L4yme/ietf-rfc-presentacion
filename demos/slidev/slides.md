@@ -57,11 +57,34 @@ layout: default
         <span class="toc__num">04</span>
         <span class="toc__title">Ejemplos e impacto</span>
       </div>
+      <div class="toc__item">
+        <span class="toc__num">05</span>
+        <span class="toc__title">Importancia en ingeniería</span>
+      </div>
     </div>
   </div>
   <div class="toc-slide__right">
     <img src="/fiber.jpg" alt="Fibra óptica y cables de red" />
     <div class="toc-slide__tag">La red global</div>
+  </div>
+</div>
+
+---
+
+<div class="split">
+  <div class="split__text">
+    <div class="eyebrow">Introducción</div>
+    <h2>Internet no funciona por casualidad.</h2>
+    <ul class="bullets">
+      <li>Millones de sistemas siguen <strong>reglas comunes</strong>.</li>
+      <li>Esas reglas se discuten, se prueban y se publican.</li>
+      <li>La IETF y los RFC son ese mecanismo.</li>
+    </ul>
+    <div class="split__note">Qué son · cómo funcionan · por qué importan</div>
+  </div>
+  <div class="split__media">
+    <img src="/cover-servers.jpg" alt="Servidores y conectividad global" />
+    <div class="split__caption">Reglas comunes, escala global</div>
   </div>
 </div>
 
@@ -288,6 +311,56 @@ color: '#123B33'
 </div>
 
 ---
+layout: section
+number: '05'
+background: '#BDE0FE'
+color: '#102A43'
+---
+
+<span>Importancia en ingeniería de sistemas</span>
+
+::subtitle::
+<span>Leer, diseñar y depurar con estándares</span>
+
+---
+
+<div class="split">
+  <div class="split__text">
+    <div class="eyebrow">Sección 05 · Tu carrera</div>
+    <h2>Qué cambia para un ingeniero</h2>
+    <ul class="bullets">
+      <li><strong>Fuente primaria:</strong> el RFC define el comportamiento exacto.</li>
+      <li><strong>Interoperabilidad:</strong> contratos comunes entre sistemas.</li>
+      <li><strong>Diagnóstico y seguridad:</strong> entender fallos, límites y amenazas.</li>
+    </ul>
+    <div class="split__note">El RFC es el contrato técnico que permite que sistemas distintos se entiendan.</div>
+  </div>
+  <div class="split__media">
+    <img src="/circuit.jpg" alt="Circuito y arquitectura de red" />
+    <div class="split__caption">Estándares · interoperabilidad</div>
+  </div>
+</div>
+
+---
+
+<div class="split">
+  <div class="split__text">
+    <div class="eyebrow">Conclusiones</div>
+    <h2>Tres ideas para llevarse</h2>
+    <ul class="bullets">
+      <li><strong>La IETF</strong> construye consenso, no imposiciones.</li>
+      <li><strong>Los RFC</strong> son un archivo vivo: se actualizan y se reemplazan.</li>
+      <li><strong>Leer estándares</strong> es una competencia de ingeniería.</li>
+    </ul>
+    <div class="split__note">Documentar también es diseñar.</div>
+  </div>
+  <div class="split__media">
+    <img src="/network-earth.jpg" alt="Red global de comunicaciones" />
+    <div class="split__caption">Una Internet abierta e interoperable</div>
+  </div>
+</div>
+
+---
 
 <div class="thanks">
   <div class="thanks__left">
@@ -320,6 +393,6 @@ color: '#123B33'
   </div>
   <div class="thanks__foot">
     <span>UNSA · Arequipa, Perú · 2026</span>
-    <span>12 / 12</span>
+    <span>16 / 16</span>
   </div>
 </div>
